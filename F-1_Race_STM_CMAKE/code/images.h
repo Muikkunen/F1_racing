@@ -1,0 +1,7 @@
+#ifndef IMAGES_INCLUDED
+#define IMAGES_INCLUDED
+
+#define WORLD_MAP_HEIGHT 47
+#define WORLD_MAP_WIDTH 80
+
+#endif

@@ -1,0 +1,14 @@
+.settings/
+CMakeFiles/
+.cproject
+.project
+CMakeCache.txt
+Debug_Configuration.launch
+*.bin
+*.elf
+*.hex
+*.lst
+*.nfs*
+test*
+Makefile
+cmake_install.cmake
